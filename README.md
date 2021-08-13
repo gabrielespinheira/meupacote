@@ -10,9 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://profile-github.netlify.app/">
     <img src="https://i.imgur.com/0KSGs4y.png" />
-  </a>
 </p>
 
 ## :dart: Features
